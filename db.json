@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Zanahoria Organica",
+      "precio": "200",
+      "id": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja Organico",
+      "precio": "100",
+      "id": "2"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": "3"
+    },
+    {
+      "nombre": "Aceite de Coco",
+      "precio": "800",
+      "id": "cb0b"
+    },
+    {
+      "id": "8b07",
+      "nombre": "Manteca Mani",
+      "precio": 80
+    },
+    {
+      "id": "b2a4",
+      "nombre": "Mani sin Sal",
+      "precio": 25
+    },
+    {
+      "nombre": "Budin Banana",
+      "precio": "100",
+      "id": "816e"
+    }
+  ]
+}
